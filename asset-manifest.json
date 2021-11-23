@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wcgordon1/react-movies.git/static/css/main.69cd33e0.chunk.css",
+    "main.js": "/wcgordon1/react-movies.git/static/js/main.53547b6f.chunk.js",
+    "main.js.map": "/wcgordon1/react-movies.git/static/js/main.53547b6f.chunk.js.map",
+    "runtime-main.js": "/wcgordon1/react-movies.git/static/js/runtime-main.e0476154.js",
+    "runtime-main.js.map": "/wcgordon1/react-movies.git/static/js/runtime-main.e0476154.js.map",
+    "static/js/2.63d16f07.chunk.js": "/wcgordon1/react-movies.git/static/js/2.63d16f07.chunk.js",
+    "static/js/2.63d16f07.chunk.js.map": "/wcgordon1/react-movies.git/static/js/2.63d16f07.chunk.js.map",
+    "static/js/3.23cfbdc2.chunk.js": "/wcgordon1/react-movies.git/static/js/3.23cfbdc2.chunk.js",
+    "static/js/3.23cfbdc2.chunk.js.map": "/wcgordon1/react-movies.git/static/js/3.23cfbdc2.chunk.js.map",
+    "index.html": "/wcgordon1/react-movies.git/index.html",
+    "static/css/main.69cd33e0.chunk.css.map": "/wcgordon1/react-movies.git/static/css/main.69cd33e0.chunk.css.map",
+    "static/js/2.63d16f07.chunk.js.LICENSE.txt": "/wcgordon1/react-movies.git/static/js/2.63d16f07.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/wcgordon1/react-movies.git/static/media/warm.a7f83012.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0476154.js",
+    "static/js/2.63d16f07.chunk.js",
+    "static/css/main.69cd33e0.chunk.css",
+    "static/js/main.53547b6f.chunk.js"
+  ]
+}
